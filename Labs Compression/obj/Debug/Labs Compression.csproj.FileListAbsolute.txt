@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\Labs Compression\Labs Compression\obj\Debug\Labs Com
 C:\Users\Admin\source\repos\Labs Compression\Labs Compression\obj\Debug\Labs Compression.exe
 C:\Users\Admin\source\repos\Labs Compression\Labs Compression\obj\Debug\Labs Compression.pdb
 C:\Users\Admin\source\repos\Labs Compression\Labs Compression\obj\Debug\Labs_Compression.MainForm.resources
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\bin\Debug\Labs Compression.exe.config
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\bin\Debug\Labs Compression.exe
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\bin\Debug\Labs Compression.pdb
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\obj\Debug\Labs Compression.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\obj\Debug\Labs_Compression.MainForm.resources
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\obj\Debug\Labs_Compression.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\obj\Debug\Labs Compression.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\obj\Debug\Labs Compression.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\obj\Debug\Labs Compression.exe
+C:\Users\Admin\Documents\GitHub\Labs_Compression\Labs Compression\obj\Debug\Labs Compression.pdb
